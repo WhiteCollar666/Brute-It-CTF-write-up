@@ -5,9 +5,9 @@ This repository contains a detailed write-up of the "Brute It" CTF challenge, in
 
 ### 
 
-CTF Name: Write it
-Difficulty Level: Easy
-ip address : 10.48.163.181
+• CTF Name: Write it.         
+• Difficulty Level: Easy
+• Ip address : 10.48.163.181
 
 
 ### Enumeration 
