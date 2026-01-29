@@ -40,7 +40,9 @@ ip address : 10.48.163.181
 
      • after login through username and Password , i discovered an encrypted RSA private key
      • so, i decided to crack the RSA key
-
+       
+        nano hash.txt // i had copied the RSA to key to hash.txt
+        
         ss2john id_rsa > hash.txt
 
         john --wordlist=/usr/share/wordlists/rockyou.txt hash.txt
